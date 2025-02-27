@@ -55,15 +55,6 @@ streamlit run streamlit_app.py
 
 ---
 
-## **🛠️ Features**
-- 🔍 **Searches the web** in real-time using **DuckDuckGo API**.  
-- 🤖 **Uses GPT-4o** to summarize and analyze search results.  
-- 📜 **Simple UI** with **Streamlit** for easy access.  
-- 🔑 **Secure API Key Input** (User provides their own OpenAI API Key).  
-- 🚀 **Fast & Lightweight** for quick, reliable responses.  
-
----
-
 ## **📜 How It Works**
 1. **User Inputs Query**: Enter a search query in the text box.  
 2. **DuckDuckGo Fetches Results**: Retrieves **real-time search data**.  
